@@ -1,0 +1,20 @@
+{
+  "title": "Negritos launcher",
+  "accent": "#ffa41b",
+  "hero": "https://raw.githubusercontent.com/Pinguinoby02/launcher-ng/main/hero.png",
+  "discord": {
+    "app_id": "1574107560225542224",
+    "image": "Logo_V2",
+    "invite": ""
+  },
+  "jvm_args": [],
+  "profiles": [
+    {
+      "id": "smp",
+      "name": "SMP Principal",
+      "mrpack_url": "https://raw.githubusercontent.com/Pinguinoby02/launcher-ng/main/packs/smp.mrpack",
+      "news": "Recuerden: no griefear y avisar antes de hacer granjas enormes.\n\nIP: negritos-smp.play.hosting",
+      "server": "negritos-smp.play.hosting"
+    }
+  ]
+}
