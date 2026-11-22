@@ -1,5 +1,13 @@
 {
   "title": "Negritos launcher",
+  "accent": "#2fa572",
+  "background": "https://raw.githubusercontent.com/Pinguinoby02/launcher-ng/main/background.jpg",
+  "bg_dim": 0.8,
+  "discord": {
+    "app_id": "1574107560225542224",
+    "image": "logo",
+    "invite": ""
+  },
   "jvm_args": [],
   "profiles": [
     {
