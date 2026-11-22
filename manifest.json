@@ -1,19 +1,12 @@
 {
-  "title": "Servidor de los panas",
+  "title": "Negritos launcher",
   "jvm_args": [],
   "profiles": [
     {
       "id": "smp",
       "name": "SMP Principal",
-      "mrpack_url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/packs/smp.mrpack",
-      "news": "¡Bienvenidos al SMP!\nIP: mi.servidor.com\n\nv1.0 - Primer lanzamiento."
-    },
-    {
-      "id": "evento1",
-      "name": "Evento Especial",
-      "mrpack_url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/packs/evento1.mrpack",
-      "news": "Evento del sábado. IP: evento.servidor.com",
-      "jvm_args": []
+      "mrpack_url": "https://raw.githubusercontent.com/Pinguinoby02/launcher-ng/main/packs/smp.mrpack",
+      "news": "Recuerden: no griefear y avisar antes de hacer granjas enormes.\n\nIP: negritos-smp.play.hosting"
     }
   ]
 }
